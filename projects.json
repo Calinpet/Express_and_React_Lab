@@ -1,14 +1,14 @@
 [
   {
-    "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Futboll-Stats",
+    "live": "https://calinpet.github.io/Craft-Cocktails-App/",
+    "git": "https://github.com/Calinpet/Craft-Cocktails-App",
+    "image": ""
   },
   {
-    "name": "project2",
-    "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Futboll-Stats",
+    "live": "https://futboll-stats.herokuapp.com/",
+    "git": "https://github.com/Calinpet/Futboll-Stats",
+    "image": ""
   }
 ]
